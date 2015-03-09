@@ -48,3 +48,6 @@
 
 [branch "master"]
   mergeoptions = --no-edit
+[user]
+	email = pierretucoulat@gmail.com
+	name = pierretucoulat
